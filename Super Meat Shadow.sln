@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{7F902BC8-E3F1-FC5A-CD99-B32AFB5924EE}") = "Super Meat Shadow", "Assembly-CSharp.csproj", "{712749D7-C329-87B6-488F-C26DA8C70CDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{712749D7-C329-87B6-488F-C26DA8C70CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{712749D7-C329-87B6-488F-C26DA8C70CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{712749D7-C329-87B6-488F-C26DA8C70CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{712749D7-C329-87B6-488F-C26DA8C70CDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
